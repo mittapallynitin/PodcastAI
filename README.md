@@ -103,7 +103,7 @@ Authorization: Bearer <token>
 ```
 
 ### 📌 Roadmap
-•	🗣️ TTS Integration (e.g., ElevenLabs, Bark)
-•	🔁 Job orchestration: background tasks with Celery or RQ
-•	🧑‍🎓 Frontend/UI with live progress (FastAPI + WebSockets/Streamlit)
-•	🎧 Podcast Publishing: export to RSS, audio stores
+- 🗣️ TTS Integration (e.g., ElevenLabs, Bark)
+- 🔁 Job orchestration: background tasks with Celery or RQ
+- 🧑‍🎓 Frontend/UI with live progress (FastAPI + WebSockets/Streamlit)
+- 🎧 Podcast Publishing: export to RSS, audio stores
