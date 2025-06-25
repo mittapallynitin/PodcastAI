@@ -3,7 +3,7 @@ from fastapi import APIRouter, status
 from schemas import user as user_schema
 from services import user as user_service
 
-router = APIRouter(prefix="/auth")
+router = APIRouter(prefix="")
 
 
 @router.post("/signup", status_code=status.HTTP_201_CREATED, response_model=user_schema.Token)
